@@ -17,22 +17,19 @@ e) Email Marketing
 
 **Problem Statement :**
 
-How to read and get the required information from the a live & dynamic webpage. 
+How to read and get the required information from the online dynamic webpages. 
 
 
-Solution:
+**Solution:**
 
-To tackle this problem I have implemented the K-means clustering
-Firstly, I applied the K-means clustering without dimensionality reduction
-Secondly, I applied the K-means clustering with dimensionality reduction (Using PCA), which improves performance of model by feature extraction.
-In addition to that I found out
-a) which cluster has max. articles(before & after implementing PCA) b) top 50 words in entertainment cluster and printing last 50th word (before & after implementing PCA)
+To tackle this problem, I have considered the online webpage of **'https://www.timesjobs.com/'**. On this webpages, i have performed the webscrapping & extracted the
+required information & saved in a '.csv file'. This '.csv file' will be helpful for performing the downstream activities such as Machine learning, EDA, etc.
 
-Dependencies:
+**Dependencies:**
 
 Python 3+, jupyter notebbook, Pandas, Numpy, Sklearn, K-means, PCA
 
-Purpose:
+**Purpose:**
 
 The purpose of this project is to gain insights, develop competency & help others in
 
