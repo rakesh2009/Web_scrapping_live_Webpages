@@ -13,7 +13,7 @@ c) News Monitoring
 
 d) Sentiment Analysis
 
-e) Email Marketing
+e) Email Marketing  etc.
 
 **Problem Statement :**
 
