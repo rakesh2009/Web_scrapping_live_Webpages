@@ -27,14 +27,12 @@ required information & saved in a '.csv file'. This '.csv file' will be helpful 
 
 **Dependencies:**
 
-Python 3+, jupyter notebbook, Pandas, Numpy, Sklearn, K-means, PCA
+Pycharm TDE, Python 3+, Pandas, Beautifulsoup, Requests
 
 **Purpose:**
 
 The purpose of this project is to gain insights, develop competency & help others in
 
-a) Pratical implementation of K-Means clustering using python code
+a) Pratical implementation of Webscrapping on dynamic webpages 
 
-b) Clustering of News articles with the help of K-Means alogarithm for finding the suitable & related topics clusters
-
-c) Dimensionality reduction using PCA.
+b) Imbibing the knowledge realted to webscrapping libraries
