@@ -3,7 +3,7 @@ Performed web scrapping on live &amp; dynamic web pages using python, Beautifuls
 
 **Background:**
 
-Webscrapping is used by companies to read & extract the required information from online webpages for performing the downstream activities such as
+Webscrapping is used by companies to read & extract the required information from the online webpages for performing the downstream activities such as
 
 a) Price Monitoring
 
