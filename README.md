@@ -1,7 +1,7 @@
 # Web_scrapping_live_Webpages
 Performed web scrapping on live &amp; dynamic web pages using python, Beautifulsoup &amp; Requests libraries
 
-#Problem Statement :#
+**Problem Statement :**
 Dataset consists of news articles pertaining to business,political,entertainment, sports,technology are mentioned in JSON format. There is no segregation of articles in the dataset. All are mixed. We have to segregate the articles and validate which article pertains to which topic(business,political,entertainment, sports,technology ).
 
 Solution:
