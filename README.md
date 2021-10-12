@@ -22,7 +22,7 @@ How to read and get the required information from the online dynamic webpages.
 
 **Solution:**
 
-To tackle this problem, I have considered the online webpage of **'https://www.timesjobs.com/'**. On this webpages, i have performed the webscrapping & extracted the
+To tackle this problem, I have considered the online webpage of **'https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=python&txtLocation='**. On this webpages, i have performed the webscrapping & extracted the
 required information & saved in a '.csv file'. This '.csv file' will be helpful for performing the downstream activities such as Machine learning, EDA, etc.
 
 **Dependencies:**
